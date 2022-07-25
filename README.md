@@ -46,3 +46,34 @@ ROS is an open-source, meta-operating system for your robot. It provides the ser
 ### MoveIt!
 
 MoveIt! is a framework package of Ros. The basic task of the MoveIt! system is to provide the necessary trajectories for the arm of a robot to put the end effector in a given place.
+
+## Applications
+
+
+
+## Limitations
+
+
+
+## Improvements
+
+
+
+## Team Members
+
+1. [Ajay Sonwani](https://github.com/ajaysonwani)
+2. [Aviral Jain](https://github.com/Aviral2002)
+3. [Harsh Kumar](https://github.com/Harshkr03)
+4. Saksham Jaiswal
+
+## Mentors
+
+1. Diwahar
+2. Harshini S.
+
+## References
+
+1. [For installation of ROS noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
+2. [For installation of MoveIt](https://moveit.ros.org/install-moveit2/source/)
+4. [For installation of Gazebo](https://dev.px4.io/v1.10_noredirect/en/simulation/gazebo.html)
+
