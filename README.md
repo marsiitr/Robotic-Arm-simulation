@@ -32,3 +32,17 @@ Links of the arm-
 Gripper-
 
 ![gripper](https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/gripper.png)
+
+## Software Aspects
+
+### SolidWorks
+
+SOLIDWORKS is used to develop mechatronics systems from beginning to end. At the initial stage, the software is used for planning, visual ideation, modeling, feasibility assessment, prototyping, and project management. The software is then used for design and building of mechanical, electrical, and software elements.
+
+### ROS (Robot Operating System)
+
+ROS is an open-source, meta-operating system for your robot. It provides the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management.
+
+### MoveIt!
+
+MoveIt! is a framework package of Ros. The basic task of the MoveIt! system is to provide the necessary trajectories for the arm of a robot to put the end effector in a given place.
