@@ -28,3 +28,7 @@ Links of the arm-
 ![link3](https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link3.png)
 
 ![link4](https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link4.png)
+
+Gripper-
+
+![gripper](https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/gripper.png)
