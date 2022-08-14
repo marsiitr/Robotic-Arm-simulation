@@ -23,16 +23,16 @@ Base of the arm-
 Links of the arm-
 
 <p align="center">
-    <ing src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link1.png"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link1.png"/></p>
 
 <p align="center">
-    <ing src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link2.png"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link2.png"/></p>
 
 <p align="center">
-    <ing src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link3.png"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link3.png"/></p>
 
 <p align="center">
-    <ing src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link4.png"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link4.png"/></p>
 
 Gripper-
 
