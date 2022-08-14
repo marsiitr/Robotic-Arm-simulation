@@ -15,13 +15,12 @@ Robotic arms are fast, reliable, and accurate and can be programmed to do an inf
 
 3-D model of robotic arm was made in Solidworks part by part.
 
+<p align ="justify">Base of the arm-</p>
 
 <p align="center">
-    Base of the arm-
-
     <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/base.png"/></p>
 
-Links of the arm-
+<p align="justify">Links of the arm-</p>
 
 <p align="center">
     <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link1.png"/></p>
@@ -35,7 +34,7 @@ Links of the arm-
 <p align="center">
     <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link4.png"/></p>
 
-Gripper-
+<p align="justify">Gripper-</p>
 
 <p align="center"><img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/gripper.png" /></p>
 
