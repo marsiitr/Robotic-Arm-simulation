@@ -75,7 +75,7 @@ Our aim would be to to improve the trajectory of the arm using planners in MoveI
 ## Mentors
 
 1. Diwahar
-2. Harshini S.
+2. [Harshini S.](https://github.com/Harshini-festus)
 
 ## References
 
