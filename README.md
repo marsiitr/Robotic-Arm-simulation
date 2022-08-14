@@ -18,25 +18,25 @@ Robotic arms are fast, reliable, and accurate and can be programmed to do an inf
 <p align ="justify">Base of the arm-</p>
 
 <p align="center">
-    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/base.png"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/base.png"width="600" height="500"/></p>
 
 <p align="justify">Links of the arm-</p>
 
 <p align="center">
-    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link1.png"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link1.png"width="600" height="500"/></p>
 
 <p align="center">
-    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link2.png"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link2.png"width="600" height="500"/></p>
 
 <p align="center">
-    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link3.png"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link3.png"width="600" height="500"/></p>
 
 <p align="center">
-    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link4.png"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/link4.png"width="600" height="500"/></p>
 
 <p align="justify">Gripper-</p>
 
-<p align="center"><img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/gripper.png" /></p>
+<p align="center"><img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/gripper.png" width="600" height="500"/></p>
 
 ## Software Aspects
 
