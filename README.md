@@ -70,7 +70,7 @@ Our aim would be to to improve the trajectory of the arm using planners in MoveI
 1. [Ajay Sonwani](https://github.com/ajaysonwani)
 2. [Aviral Jain](https://github.com/Aviral2002)
 3. [Harsh Kumar](https://github.com/Harshkr03)
-4. Saksham Jaiswal
+4. [Saksham Jaiswal](https://github.com/sakshamjaiswal03)
 
 ## Mentors
 
