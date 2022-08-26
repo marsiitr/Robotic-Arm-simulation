@@ -42,45 +42,51 @@ Robotic arms are fast, reliable, and accurate and can be programmed to do an inf
 
 ### SolidWorks
 
-SOLIDWORKS is used to develop mechatronics systems from beginning to end. At the initial stage, the software is used for planning, visual ideation, modeling, feasibility assessment, prototyping, and project management. The software is then used for design and building of mechanical, electrical, and software elements.
+<p align="justify">SOLIDWORKS is used to develop mechatronics systems from beginning to end. At the initial stage, the software is used for planning, visual ideation, modeling, feasibility assessment, prototyping, and project management. The software is then used for design and building of mechanical, electrical, and software elements.
 
-For Downloading Solidworks follow the link- https://www.solidworks.com/sw/support/downloads.htm
+For Downloading Solidworks follow the link- https://www.solidworks.com/sw/support/downloads.htm</p>
 
 ### ROS (Robot Operating System)
 
-ROS is an open-source, meta-operating system for your robot. It provides the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management.
+<p align="justify">ROS is an open-source, meta-operating system for your robot. It provides the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management.
 
 For installing ROS, follow the steps by giving commands in the terminal-
 
 #### Setup your sources.list
 
-```sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'```
+```
+sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+```
 
 #### Set up your keys
 
-```curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add - ```
+```
+curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add - 
+```
 
 #### Installation
 
-```sudo apt install ros-noetic-desktop-full```
-
+```
+sudo apt install ros-noetic-desktop-full
+```
+</p>
 
 ### MoveIt!
 
-MoveIt! is a framework package of Ros. The basic task of the MoveIt! system is to provide the necessary trajectories for the arm of a robot to put the end effector in a given place.
+<p align="justify">MoveIt! is a framework package of Ros. The basic task of the MoveIt! system is to provide the necessary trajectories for the arm of a robot to put the end effector in a given place.</p>
 
 ## Applications
 
-Robotic arm can be used for multiple industrial applications, from welding, material handling, and thermal spraying, to painting and drilling. With some modifications they can be used for servicing nuclear power stations, welding and repairing pipelines on the ocean floor, remote servicing of utility power lines, or cleaning up radioactive and other hazardous wastes.
-Another example where Robotic-arm can be used is in the auto-manufacturing industry. Robots have been a boom to the auto-manufacturing industry. Most industrial robots work in auto assembly lines, putting cars together.Robots can do a lot of this work more efficiently than human beings because of its speed and relative precision. It also will significantly reduce worker injuries, including repetitive stress injuries. Additionally, the robot will turn out a more consistent product at a significantly cheaper cost than can humans.
+<p align="justify">Robotic arm can be used for multiple industrial applications, from welding, material handling, and thermal spraying, to painting and drilling. With some modifications they can be used for servicing nuclear power stations, welding and repairing pipelines on the ocean floor, remote servicing of utility power lines, or cleaning up radioactive and other hazardous wastes.
+Another example where Robotic-arm can be used is in the auto-manufacturing industry. Robots have been a boom to the auto-manufacturing industry. Most industrial robots work in auto assembly lines, putting cars together.Robots can do a lot of this work more efficiently than human beings because of its speed and relative precision. It also will significantly reduce worker injuries, including repetitive stress injuries. Additionally, the robot will turn out a more consistent product at a significantly cheaper cost than can humans.</p>
 
 ## Limitations
 
-A this is a simulation, real model of the arm will have to be made with high precision and have a high chance of inaccuracy.<br>Also the arm moves in rough trajectories with very less precision and the weight distribution and weight limit wil also a problem an weight of components and external weight could increase the stress on links and motors, and these situations could create a big problem in real life model.
+<p align="justify">A this is a simulation, real model of the arm will have to be made with high precision and have a high chance of inaccuracy.<br>Also the arm moves in rough trajectories with very less precision and the weight distribution and weight limit wil also a problem an weight of components and external weight could increase the stress on links and motors, and these situations could create a big problem in real life model.</p>
 
 ## Improvements
 
-Our aim would be to to improve the trajectory of the arm using planners in MoveIt and control it to pick various objects in simulation. And to make an interactive remote control for the arm.
+<p align="justify">Our aim would be to to improve the trajectory of the arm using planners in MoveIt and control it to pick various objects in simulation. And to make an interactive remote control for the arm.</p>
 
 ## Team Members
 
