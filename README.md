@@ -4,7 +4,7 @@
 
 A simulation of Robotic Arm in Gazebo Environment, made 3-D model with SolidWorks and controlled by ROS and Moveit framework.
 
-![Final](https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/finalarm.png)
+![Final](https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/finalarm.png)
 
 ## Motivation
 
@@ -17,26 +17,26 @@ Robotic arms are fast, reliable, and accurate and can be programmed to do an inf
 
 <p align ="justify">Base of the arm-</p>
 
-<p align="center">
+<p align="justify">
     <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/base.png"width="600" height="500"/></p>
 
 <p align="justify">Links of the arm-</p>
 
-<p align="center">
+<p align="justify">
     <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/link1.png"width="600" height="500"/></p>
 
-<p align="center">
+<p align="justify">
     <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/link2.png"width="600" height="500"/></p>
 
-<p align="center">
+<p align="justify">
     <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/link3.png"width="600" height="500"/></p>
 
-<p align="center">
+<p align="justify">
     <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/link4.png"width="600" height="500"/></p>
 
 <p align="justify">Gripper-</p>
 
-<p align="center"><img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/gripper.png" width="600" height="500"/></p>
+<p align="justify"><img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/gripper.png" width="600" height="500"/></p>
 
 ## Software Aspects
 
@@ -44,9 +44,26 @@ Robotic arms are fast, reliable, and accurate and can be programmed to do an inf
 
 SOLIDWORKS is used to develop mechatronics systems from beginning to end. At the initial stage, the software is used for planning, visual ideation, modeling, feasibility assessment, prototyping, and project management. The software is then used for design and building of mechanical, electrical, and software elements.
 
+For Downloading Solidworks follow the link- https://www.solidworks.com/sw/support/downloads.htm
+
 ### ROS (Robot Operating System)
 
 ROS is an open-source, meta-operating system for your robot. It provides the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management.
+
+For installing ROS, follow the steps by giving commands in the terminal-
+
+#### Setup your sources.list
+
+```sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'```
+
+#### Set up your keys
+
+```curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add - ```
+
+#### Installation
+
+```sudo apt install ros-noetic-desktop-full```
+
 
 ### MoveIt!
 
