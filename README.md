@@ -18,7 +18,7 @@ Robotic arms are fast, reliable, and accurate and can be programmed to do an inf
 <p align ="justify">Base of the arm-</p>
 
 <p align="justify">
-    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/base.png"width="250" height="150"/></p>
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/base.png"width="300" height="300"/></p>
 
 <p align="justify">Links of the arm-</p>
 
