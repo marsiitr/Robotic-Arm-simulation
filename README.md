@@ -7,8 +7,6 @@ A simulation of Robotic Arm in Gazebo Environment, made 3-D model with SolidWork
 <p align="justify">
     <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/finalarm.png"/></p>
 
-![Final](https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/finalarm.png)
-
 ## Motivation
 
 From manufacturing to automotive to agriculture, industrial robotic arms are one of the most common types of robots in use today.<br>
