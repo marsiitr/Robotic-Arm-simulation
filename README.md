@@ -73,7 +73,14 @@ sudo apt install ros-noetic-desktop-full
 
 ### MoveIt!
 
-<p align="justify">MoveIt! is a framework package of Ros. The basic task of the MoveIt! system is to provide the necessary trajectories for the arm of a robot to put the end effector in a given place.</p>
+<p align="justify">MoveIt! is a framework package of Ros. The basic task of the MoveIt! system is to provide the necessary trajectories for the arm of a robot to put the end effector in a given place.
+
+For installing MoveIt!, paste the command in terminal
+```
+sudo apt install ros-noetic-moveit
+```
+
+</p>
 
 ## Applications
 
