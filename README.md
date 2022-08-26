@@ -4,6 +4,9 @@
 
 A simulation of Robotic Arm in Gazebo Environment, made 3-D model with SolidWorks and controlled by ROS and Moveit framework.
 
+<p align="justify">
+    <img src="https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/finalarm.png"/></p>
+
 ![Final](https://github.com/Aviral2002/Robotic-Arm-simulation/blob/main/Images%20And%20VIdeos/Images/finalarm.png)
 
 ## Motivation
