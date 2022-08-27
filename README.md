@@ -51,7 +51,7 @@ For Downloading Solidworks follow the link- https://www.solidworks.com/sw/suppor
 
 <p align="justify">ROS is an open-source, meta-operating system for your robot. It provides the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management.
 
-For installing ROS, follow the steps by giving commands in the terminal-
+For installing ROS, follow the steps by giving commands in the terminal -
 
 #### Setup your sources.list
 
